@@ -16,9 +16,7 @@ An all-in-one AI content analysis tool that detects plagiarism, identifies AI-ge
 - **Libraries:** Transformers, PyTorch, Scikit-learn
 
 ## 📸 Demo
-<img width="1326" height="933" alt="WhatsApp Image 2026-05-18 at 11 50 32 AM" src="https://github.com/user-attachments/assets/d213ea44-c258-48e4-a9c7-682217b6470f" />
-
-
+<img width="1600" height="715" alt="WhatsApp Image 2026-07-13 at 22 38 30" src="https://github.com/user-attachments/assets/28eb5824-35bb-47cb-83ef-b3d63e3c5ce4" />
 
 ## ⚙️ How to Run
 ```bash
